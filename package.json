@@ -1,0 +1,7 @@
+{
+  "name": "node-stream-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "glob": "~5.0.10"
+  }
+}
